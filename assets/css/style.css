@@ -1,0 +1,83 @@
+body {
+    font-family: 'Arvo', serif;
+    color: #455a64;
+    background-color: #fafafa;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: 500;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 4px;
+}
+
+h1, h2{
+    color: #212121;
+}
+
+h3 {
+    color: #00897b;
+}
+
+h4, h5 {
+    color: #26a69a;
+}
+
+.navbar {
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.12);
+    background-color: rgba(255, 255, 255, 0.7);
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 2px;
+    height: 80px;
+}
+
+section {
+    padding-top: 80px;
+}
+
+#presentation {
+    width: 100%;
+    height: 100vh;
+    background: url("../img/dino.jpg") center;
+    background-size: cover;
+}
+
+.presentation {
+    height: 80vh;
+}
+
+.about-image {
+    background: url("../img/illustration.png") no-repeat;
+    background-size: contain;
+    min-height: 400px;
+}
+
+.img-height {
+    height: 90%;
+}
+
+.img-partner {
+    height: 100%;
+    width: 75%;
+    object-fit: contain;
+}
+
+a {
+    color: #f4511e;
+}
+
+a:hover {
+    color: #d84315;
+    text-decoration: none;
+}
+
+.logo {
+    width: 180px;
+}
+
+.card {
+    box-shadow: 5px 5px 15px 0 rgba(0, 0, 0, 0.15);
+}
+
+footer {
+    margin: 30px 0;
+}
