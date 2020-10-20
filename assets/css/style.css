@@ -48,7 +48,7 @@ section {
 .about-image {
     background: url("../img/illustration.png") no-repeat;
     background-size: contain;
-    min-height: 400px;
+    min-height: 250px;
 }
 
 .img-height {
