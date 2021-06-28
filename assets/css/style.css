@@ -46,7 +46,7 @@ section {
 }
 
 .about-image {
-    background: url("../img/illustration.png") no-repeat;
+    background: url("../img/rick-sanchez.jpg") no-repeat;
     background-size: contain;
     min-height: 250px;
 }
