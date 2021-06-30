@@ -37,7 +37,7 @@ section {
 #presentation {
     width: 100%;
     height: 100vh;
-    background: url("../img/dino.jpg") center;
+    background: url("../img/dino.webp") center;
     background-size: cover;
 }
 
